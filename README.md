@@ -1,2 +1,2 @@
-# Image-Classification-on-custom-data-with-Tensorflow
- Image data is generated from blender 
+# Blender-Shapes-Classifier-Tensorflow
+ Image data is generated from the blender 
